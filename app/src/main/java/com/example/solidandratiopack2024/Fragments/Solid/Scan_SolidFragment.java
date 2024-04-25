@@ -53,6 +53,7 @@ public class Scan_SolidFragment extends Fragment {
             binding.textViewMethod.setText(mSolidPack.getMethod());
             binding.textViewPONumber.setText(mSolidPack.getPoNumber());
             binding.textViewCartons.setText(mSolidPack.getCartons());
+            binding.textViewPieces.setText(mSolidPack.getPieces());
         }
         binding.imageViewBack.setOnClickListener(new View.OnClickListener() {
             @Override
