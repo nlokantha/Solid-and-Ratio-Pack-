@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="buyer_list">
+        <item>GARAN</item>
+        <item>TCP</item>
+    </string-array>
+
+    <string-array name="packing_method">
+        <item>Solid Pack</item>
+        <item>Ratio Pack</item>
+    </string-array>
+
+</resources>
